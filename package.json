@@ -1,0 +1,16 @@
+{
+  "name": "senac-caixadeareia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aula": "^2.16.0",
+    "aula2": "^1.0.0"
+  }
+}
